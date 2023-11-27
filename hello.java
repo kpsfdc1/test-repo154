@@ -1,7 +1,7 @@
-class hello()	#from dev2
+class hello()	#from dev1
 {
-	public static void main()	#from dev2
+	public static void main()	#from dev1
 	{
-		public static void main("hello modf");
+		public static void main("hello modf dev1");
 	}
 }#from dev2
